@@ -1,6 +1,1 @@
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:200habib/-A-site-for-finding-the-perfect-chair.git
-git push -u origin main
+Discover the perfect chair for your space! Explore our curated collection of stylish and comfortable seating options, from modern designs to timeless classics. Shop now for quality and style.
